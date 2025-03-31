@@ -33,5 +33,5 @@
    
 - Youtube : <https://www.youtube.com/@yamingwtf/community>
    
-- Github  :
+- Github  : 짜증나.
   
