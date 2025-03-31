@@ -1,5 +1,12 @@
 # Jiyoung Han
 
 ## 1. About Me
-  자기소개 나열하기 이ㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣ허케저러케이렇게어절헤
-  
+   자기소개 나열하기 이ㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣ허케저러케이렇게어절헤
+
+## 2. Contact
+
+   |Email   | hjiyounggy08@gmail.com                         |
+   |Youtube | <https://www.youtube.com/@yamingwtf/community> |
+
+## 3. 교육 & 자격증
+   - 학위 : 광운대학교 정보융합학부
