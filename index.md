@@ -15,6 +15,7 @@
    |Email   | hjiyounggy08@gmail.com                         |
    |--------|------------------------------------------------|
    |Youtube | <https://www.youtube.com/@yamingwtf/community> |
+   |--------|------------------------------------------------|
    
    |Github  | 하이염                                         |
    
